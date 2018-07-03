@@ -29,10 +29,10 @@ Fn+F4     Launchpad
 
 * 拍摄屏幕快照
 ```
-Command+Shift+3     将屏幕捕捉到**文件**
-Command+Shift+4     将所选屏幕内容捕捉到**文件**，或按空格键仅捕捉一个窗口
-Command-Shift-Control-3     将屏幕内容捕捉到**剪贴板**
-Command-Shift-Control-4     将所选屏幕内容捕捉到**剪贴板**，或按空格键仅捕捉一个窗口
+Command+Shift+3     将屏幕捕捉到文件
+Command+Shift+4     将所选屏幕内容捕捉到文件，或按空格键仅捕捉一个窗口
+Command-Shift-Control-3     将屏幕内容捕捉到剪贴板
+Command-Shift-Control-4     将所选屏幕内容捕捉到剪贴板，或按空格键仅捕捉一个窗口
 ```
 
 ## 常用命令
@@ -61,10 +61,10 @@ $ sips -z 800 1200 *.png —out dir     输出到指定目录
 
 * 显示磁盘使用统计信息
 ```shell
-$ du -sh
+$ du -sh    显示当前目录磁盘使用信息
  23M    .
 
-$ du -sh *
+$ du -sh *  显示当前目录下每个目录或文件的磁盘使用信息
  22M    2017-11
 1.0M    2017-12
 336K    2018-01
