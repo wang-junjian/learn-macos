@@ -2,6 +2,7 @@
 
 ## 快捷键
 * 系统
+```
 Command+I     显示选中的文件的“显示简介”窗口
 Command+W     关闭当前应用的窗口
 Command+Q     退出当前应用程序（和command+tab配合可快速批量关闭应用程序）
@@ -18,17 +19,21 @@ Command+M     当前窗口最小化
 Control+Shift+Power     关闭屏幕
 Control+F2     将焦点移到菜单栏
 打开｜关闭勿扰模式     按住 Option ，单击 屏幕右上角。
-
+```
 * 功能键
+```
 F11     隐藏｜打开 所有打开的窗口（回到桌面）
 Fn+F3     Command-Mission Control (F3)     显示桌面
 Fn+F4     Launchpad
+```
 
 * 拍摄屏幕快照
+```
 Command+Shift+3     将屏幕捕捉到**文件**
 Command+Shift+4     将所选屏幕内容捕捉到**文件**，或按空格键仅捕捉一个窗口
 Command-Shift-Control-3     将屏幕内容捕捉到**剪贴板**
 Command-Shift-Control-4     将所选屏幕内容捕捉到**剪贴板**，或按空格键仅捕捉一个窗口
+```
 
 ## 常用命令
 * 查找指定目录下（包含子目录）所有的指定名字的文件，可以使用通配符（? *）
