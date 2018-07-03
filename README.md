@@ -35,6 +35,18 @@ Command-Shift-Control-3     将屏幕内容捕捉到剪贴板
 Command-Shift-Control-4     将所选屏幕内容捕捉到剪贴板，或按空格键仅捕捉一个窗口
 ```
 
+* Safari
+```
+Command+T               新建标签页
+Command+N               新建窗口
+Command+W               关闭标签页
+Command+L               定位地址栏
+Command+Shift+L         显示｜隐藏边栏
+Command+Z               撤销关闭的标签页
+Control+Tab             移到下一个标签页
+Control+Shift+Tab       移到上一个标签页
+```
+
 ## 常用命令
 * 查找指定目录下（包含子目录）所有的指定名字的文件，可以使用通配符（? *）
 ```shell
