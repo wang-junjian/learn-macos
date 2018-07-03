@@ -1,2 +1,1 @@
-# learn-macos
-学习macOS
+# 学习macOS
