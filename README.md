@@ -48,6 +48,11 @@ Control+Shift+Tab       移到上一个标签页
 ```
 
 ## 常用命令
+* 删除目录
+```shell
+$ rm -rf directory
+```
+
 * 查找指定目录下（包含子目录）所有的指定名字的文件，可以使用通配符（? *）
 ```shell
 $ find . -name '.DS_Store'
