@@ -30,6 +30,7 @@ Fn+F4       Launchpad
 
 * 拍摄屏幕快照
 ```
+Command+Shift+5             随意截取或者录制窗口的图像和视频
 Command+Shift+3             将屏幕捕捉到文件
 Command+Shift+4             将所选屏幕内容捕捉到文件，或按空格键仅捕捉一个窗口
 Command-Shift-Control-3     将屏幕内容捕捉到剪贴板
