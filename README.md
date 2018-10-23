@@ -93,6 +93,9 @@ $ du -sh *  显示当前目录下每个目录或文件的磁盘使用信息
 ```
 
 ## 参考资料
+* [发现 Mac 的新功能](https://help.apple.com/macOS/mojave/whats-new/?lang=zh-hans)
+* [Mac 基本概要入门需知](https://help.apple.com/macOS/mojave/mac-basics/)
+* [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 * [How to Copy a File Path as Text from Mac Finder in Mac OS X](http://osxdaily.com/2015/11/05/copy-file-path-name-text-mac-os-x-finder/)
 * [How to stop creating .DS_Store on Mac?](https://stackoverflow.com/questions/18015978/how-to-stop-creating-ds-store-on-mac)
