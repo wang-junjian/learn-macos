@@ -17,6 +17,7 @@ Command+Option+D            显示或隐藏 Dock
 Command+Control+F           当前窗口全屏
 Command+H                   当前窗口隐藏
 Command+M                   当前窗口最小化
+Command+Option+Power        休眠
 Control+Shift+Power         关闭屏幕
 Control+F2                  将焦点移到菜单栏
 按住 Option ，单击 屏幕右上角。 打开｜关闭勿扰模式
