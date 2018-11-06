@@ -93,6 +93,9 @@ $ du -sh *  显示当前目录下每个目录或文件的磁盘使用信息
  28K    y.xlsx
 ```
 
+## 工具
+* 视频转GIF [Drop to GIF](https://github.com/mortenjust/droptogif)
+
 ## 参考资料
 * [发现 Mac 的新功能](https://help.apple.com/macOS/mojave/whats-new/?lang=zh-hans)
 * [Mac 基本概要入门需知](https://help.apple.com/macOS/mojave/mac-basics/)
